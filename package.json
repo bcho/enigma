@@ -1,0 +1,31 @@
+{
+  "name": "enigma",
+  "version": "0.0.1",
+  "description": "Simple password solution.",
+  "main": "index.html",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha --recursive"
+  },
+  "keywords": [
+    "password",
+    "node-webkit"
+  ],
+  "author": "hbc <bcxxxxxx@gmail.com>",
+  "license": "SMPPL",
+  "devDependencies": {
+    "mocha": "^1.18.2",
+    "node-webkit-builder": "0.0.2",
+    "should": "^3.3.1"
+  },
+  "dependencies": {
+    "crypto-js": "^3.1.2-3"
+  },
+  "window": {
+    "title": "Enigma",
+    "toolbar": false,
+    "frame": true,
+    "position": "mouse",
+    "width": 350,
+    "height": 216
+  }
+}
