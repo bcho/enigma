@@ -22,6 +22,7 @@
   },
   "window": {
     "title": "Enigma",
+    "icon": "images/logo.icns",
     "toolbar": false,
     "frame": true,
     "position": "mouse",
