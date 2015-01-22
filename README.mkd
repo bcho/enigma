@@ -1,7 +1,3 @@
 # Enigma
 
-## TODO
-
-- [ ] barcode generator & decoder
-- [x] password generate manager
-- [ ] packaged app
+Oops.
